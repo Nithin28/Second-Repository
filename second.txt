@@ -1,1 +1,1 @@
-this is second repository with first file in it.
+this is second repository with first file in it.And i will push this file from local system to server.
